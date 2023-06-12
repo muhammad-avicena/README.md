@@ -16,7 +16,7 @@ hi, I'm **Muhammad Avicena Rahmadianto, a Software Engineer, Content Creator, an
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-avicena" alt="muhammad-avicena" /></a> </p>
 
-## ⚡ Technologies & Tools
+## ⚡ Technologies & Tools :
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -51,11 +51,11 @@ hi, I'm **Muhammad Avicena Rahmadianto, a Software Engineer, Content Creator, an
 
 
 
-## &#x270d; Blog & Writing
+## &#x270d; Blog & Writing :
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
 
-A sample of my recent articles:
+A sample of my recent articles :
 
 <!-- BLOG-POST-LIST:START -->
 - [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
@@ -64,7 +64,7 @@ A sample of my recent articles:
 - [Kubernetes-Native Synthetic Monitoring with Kuberhealthy](https://martinheinz.dev/blog/95)
 <!-- BLOG-POST-LIST:END -->
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-avicena&show_icons=true&locale=en&layout=compact" alt="muhammad-avicena" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-avicena&show_icons=true&locale=en" alt="muhammad-avicena" /></p>
