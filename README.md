@@ -16,7 +16,7 @@ hi, I'm **Muhammad Avicena Rahmadianto, a Software Engineer, Content Creator, an
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-avicena" alt="muhammad-avicena" /></a> </p>
 
-## ⚡ Technologies & Tools
+## ⚡ Technologies & Tools :
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
