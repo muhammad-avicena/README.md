@@ -3,9 +3,10 @@
 [![readme_header](https://github.com/muhammad-avicena/profile/assets/49929404/b7b89034-8e25-4f25-a1a2-5665aa66448c)](https://avicena.vercel.app/)
 
 
-# Hello, hoomans ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# `Hello World `<img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> 
 
-My name is **Muhammad Avicena Rahmadianto** and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on,  or on [![LinkedIn][3.2]][3].
+
+My name is **Muhammad Avicena Rahmadianto** and I'm a Software Engineer | Content Creator | Mentor. I'm from Indonesia, I am committed to learning and self-development in order to consistently achieve better results. . You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
