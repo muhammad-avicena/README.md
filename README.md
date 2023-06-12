@@ -27,7 +27,6 @@ My name is **Muhammad Avicena Rahmadianto** and **I'm a Software Engineer | Cont
 ![C#](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=csharp)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![.NET Framework](https://img.shields.io/badge/-.NET-blue?style=flat-square&logo=dotnet)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-greenlight?style=flat-square&logo=Node.js)
@@ -37,7 +36,6 @@ My name is **Muhammad Avicena Rahmadianto** and **I'm a Software Engineer | Cont
 ![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=express)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-white?style=flat-square&logo=mui)
-
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
@@ -47,8 +45,6 @@ My name is **Muhammad Avicena Rahmadianto** and **I'm a Software Engineer | Cont
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-
-
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
