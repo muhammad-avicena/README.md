@@ -67,8 +67,7 @@ A sample of my recent articles:
 ## &#x1f4c8; GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-avicena&show_icons=true&locale=en&layout=compact" alt="muhammad-avicena" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-avicena&show_icons=true&locale=en" alt="muhammad-avicena" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-avicena&show_icons=true&locale=en" alt="muhammad-avicena" /></p>
 
 
 
