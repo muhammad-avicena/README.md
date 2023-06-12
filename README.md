@@ -3,10 +3,10 @@
 [![readme_header](https://github.com/muhammad-avicena/profile/assets/49929404/b7b89034-8e25-4f25-a1a2-5665aa66448c)](https://avicena.vercel.app/)
 
 
-<h1 align="center">Hello World ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
+<h1 align="center">Hello, nice to meet you ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
 
-My name is **Muhammad Avicena Rahmadianto** and I'm a Software Engineer | Content Creator | Mentor. I'm from Indonesia, I am committed to learning and self-development in order to consistently achieve better results. . You can find me on :
+My name is **Muhammad Avicena Rahmadianto** and **I'm a Software Engineer | Content Creator | Mentor**. Born in Bandung - Indonesia, I am committed to learning and self-development in order to consistently achieve better results. . You can find me on :
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Avicena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/muhammad-avicena/)
@@ -14,7 +14,9 @@ My name is **Muhammad Avicena Rahmadianto** and I'm a Software Engineer | Conten
 [![Instagram Badge](https://img.shields.io/badge/-ryuhideaki.dev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/ryuhideaki.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-cenrahmant.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:cenarahmant.dev@gmail.com)
 
-## 🔧 Technologies & Tools
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-avicena" alt="muhammad-avicena" /></a> </p>
+
+## ⚡ Technologies & Tools
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -70,7 +72,8 @@ A sample of my recent articles:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-avicena&show_icons=true&locale=en&layout=compact" alt="muhammad-avicena" /></p>
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-avicena" alt="muhammad-avicena" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-avicena&show_icons=true&locale=en" alt="muhammad-avicena" /></p>
+
 
 
 
