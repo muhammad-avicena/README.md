@@ -6,7 +6,7 @@
 <h1 align="center">Hello, nice to meet you ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
 
-My name is **Muhammad Avicena Rahmadianto** and **I'm a Software Engineer | Content Creator | Mentor**. Born in Bandung - Indonesia, I am committed to learning and self-development in order to consistently achieve better results. . You can find me on :
+hi, I'm **Muhammad Avicena Rahmadianto, a Software Engineer, Content Creator, and Mentor**. Born in Bandung - Indonesia, I am committed to learning and self-development in order to consistently achieve better results. . You can find me on :
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Avicena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/muhammad-avicena/)
