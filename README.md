@@ -3,7 +3,7 @@
 [![readme_header](https://github.com/muhammad-avicena/profile/assets/49929404/b7b89034-8e25-4f25-a1a2-5665aa66448c)](https://avicena.vercel.app/)
 
 
-# `Hello World `<img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> 
+<h1 align="center">Hello World ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
 
 My name is **Muhammad Avicena Rahmadianto** and I'm a Software Engineer | Content Creator | Mentor. I'm from Indonesia, I am committed to learning and self-development in order to consistently achieve better results. . You can find me on :
