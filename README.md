@@ -6,7 +6,7 @@
 <h1 align="center">Hello, nice to meet you ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
 
-hi, I'm **Muhammad Avicena Rahmadianto, a Software Engineer, Content Creator, and Mentor**. Born in Bandung, Indonesia. Experienced in leading several projects and possess strong communication and leadership skills. I am passionate about creating world-class web applications that provide an excellent user experience and drive business growth.
+hi, I'm **Muhammad Avicena Rahmadianto, a Software Engineer, Content Creator, and Mentor**. Born in Bandung, Indonesia. Experienced in leading several projects, possess strong communication and leadership skills. I am passionate about creating world-class web applications that provide an excellent user experience and drive business growth.
 
 I am committed to staying up-to-date with industry trends and using the latest tools to develop innovative solutions that surpass expectations.
 You can find me on :
