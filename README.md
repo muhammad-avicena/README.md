@@ -25,6 +25,7 @@ You can find me on :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Golang](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=go)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=csharp)
