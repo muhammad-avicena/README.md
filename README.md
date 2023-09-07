@@ -17,7 +17,7 @@ You can find me on :
 [![Instagram Badge](https://img.shields.io/badge/-ryuhideaki.dev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/ryuhideaki.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-cenarahmant.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:cenarahmant.dev@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-avicena" alt="muhammad-avicena" /></a> </p>
+<p align="left"> <a href="https://avicena.dev"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-avicena&title=MultiLanguage,Commits,HyperComitter,Repositories,Stars,Followers,PullRequest" alt="muhammad-avicena" /></a> </p>
 
 ## ⚡ Technologies & Tools :
 
